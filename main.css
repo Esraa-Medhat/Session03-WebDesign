@@ -1,0 +1,48 @@
+
+
+body{
+    background: linear-gradient(to right,#7B4EF7,#B965F5);
+}
+.item{
+  color: white;
+  
+  width: 49.6%;
+  display: inline-block;
+  vertical-align: top;
+  
+}
+.contain{
+    background-color: #00BCD4;
+    width:50%;
+    margin: 5% auto;
+  
+}
+.chat{
+    background-color: #00BCD4;
+    text-align: center;
+    margin-top: 50px;
+}
+input,textarea,button{
+    margin: 5px;
+    padding: 5px;
+    background-color: #F1F1F1;
+    border-color: white;
+}
+button{
+    background-color: #00ACC1;
+    text-align: center;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.contact{
+    background-color: white;
+    color: black;
+}
+form{
+    text-align: center;
+}
+
+
+
